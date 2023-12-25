@@ -25,6 +25,7 @@
         {"key":"一三九","name":"一三九|JS","type":3,"api":"./lib/drpy2.min.js","ext":"./js/一三九.js"},
         {"key":"不开心","name":"不开心|JS","type":3,"api":"./lib/drpy2.min.js","ext":"./js/不开心.js"},
         {"key":"影渣渣","name":"影渣渣|JS","type":3,"api":"./lib/drpy2.min.js","ext":"./js/影渣渣.js"},
+        {"key":"369影视","name":"369影视|JS","type":3,"api":"./lib/drpy2.min.js","ext":"./js/369影视.js"},
 
         {"key":"555电影","name":"555电影|JS","type":3,"api":"./lib/drpy2.min.js","ext":"./js/555电影.js"},
         {"key":"阿布影院","name":"阿布影院|JS","type":3,"api":"./lib/drpy2.min.js","ext":"./js/阿布影院.js"},
