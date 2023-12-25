@@ -13,7 +13,6 @@
     ],
     "sites": [
         {"key": "360","name": "360","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/360.js","playUrl":"https://www.yemu.xyz/?url="},
-        {"key": "九六","name": "九六┃直连","type": 3,"api": "csp_Cs1369","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
         {"key": "荐片","name": "荐片|JS","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/荐片.js"},
         {"key":"农民影视","name":"农民影视|JS","type":3,"api":"./lib/drpy2.min.js","ext":"./js/农民影视.js"},
         {"key":"EMO蓝光","name":"EMO蓝光|JS","type":3,"api":"./lib/drpy2.min.js","ext":"./js/EMO蓝光.js"},
@@ -32,7 +31,6 @@
         {"key":"看了么","name":"看了么|JS","type":3,"api":"./lib/drpy2.min.js","ext":"./js/看了么.js"},
         {"key":"大米星球","name":"大米星球|JS","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大米星球.js"},
         {"key": "无限","name": "️无限影视(AppYs)","type": 3,"api": "csp_AppYsV2","searchable": 1, "changeable": 1,"ext": "https://www.wxtv.net/api.php/app/"},
-        {"key":"xixi","name":"xixi","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/XBPQ/xixi.json"},
 
         {"key": "少泽","name": "️少泽影视(AppYs)","type": 3,"api": "csp_AppYsV2","searchable": 1, "changeable": 1,"ext": "https://yk.shaozeyy.com/api.php/app/"},
         {"key":"落攻阁","name":"落攻阁(AppYs)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lggys.com/api.php/app/"},
