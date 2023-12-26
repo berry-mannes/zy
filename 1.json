@@ -25,19 +25,11 @@
         {"key":"一三九","name":"一三九|JS","type":3,"api":"./lib/drpy2.min.js","ext":"./js/一三九.js"},
         {"key":"369影视","name":"369影视|JS","type":3,"api":"./lib/drpy2.min.js","ext":"./js/369影视.js"},
 
-        {"key":"555电影","name":"555电影|JS","type":3,"api":"./lib/drpy2.min.js","ext":"./js/555电影.js"},
-        {"key":"阿布影院","name":"阿布影院|JS","type":3,"api":"./lib/drpy2.min.js","ext":"./js/阿布影院.js"},
-        {"key":"看了么","name":"看了么|JS","type":3,"api":"./lib/drpy2.min.js","ext":"./js/看了么.js"},
-        {"key":"大米星球","name":"大米星球|JS","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大米星球.js"},
-        {"key": "无限","name": "️无限影视(AppYs)","type": 3,"api": "csp_AppYsV2","searchable": 1, "changeable": 1,"ext": "https://www.wxtv.net/api.php/app/"},
-
         {"key": "少泽","name": "️少泽影视┃App","type": 3,"api": "csp_AppYsV2","searchable": 1, "changeable": 1,"ext": "https://yk.shaozeyy.com/api.php/app/"},
         {"key":"落攻阁","name":"落攻阁┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lggys.com/api.php/app/"},
         {"key":"迪迪","name":"迪迪┃App","type":3,"api":"csp_AppYsV2","filterable":1,"quickSearch":1,"searchable":1,"categories":["电影","连续剧","综艺","樱花动漫"],"ext":"https://api123.adys.app/xgapp.php/v3/"},
-        {"key":"Nike影视","name":"Nike|APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ajeee.com/api.php/app/"},
         {"key":"可可","name":"可可┃APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://4k.953365.cn:8090/xgapp.php/v3/"},
         {"key":"HoHo","name":"HoHo|APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.hoho.tv/api.php/app/","categories":["电影","连续剧","综艺","动漫"]},
-        {"key":"5dy3","name":"5dy3|APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://5dy3.vip/api.php/app/"},
 
         {"key":"348","name":"348┃蓝光","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/XBPQ/348z.json"},
         {"key": "MP4电影","name": "MP4电影","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/XBPQ/MP4电影.json"},
@@ -46,15 +38,22 @@
         {"key": "零零七影视","name": "零零七影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/XBPQ/零零七影视.json"},
         {"key": "voflix","name": "voflix","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/XBPQ/voflix.json"},
         {"key":"鲸落","name":"鲸落","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/XBPQ/鲸落.json"},
+        {"key":"csp_WoGG","name":"影视","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "./alitoken.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"},
+
+        {"key":"555电影","name":"555电影|JS","type":3,"api":"./lib/drpy2.min.js","ext":"./js/555电影.js"},
+        {"key":"阿布影院","name":"阿布影院|JS","type":3,"api":"./lib/drpy2.min.js","ext":"./js/阿布影院.js"},
+        {"key":"看了么","name":"看了么|JS","type":3,"api":"./lib/drpy2.min.js","ext":"./js/看了么.js"},
+        {"key":"大米星球","name":"大米星球|JS","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大米星球.js"},
+        {"key": "无限","name": "️无限影视(AppYs)","type": 3,"api": "csp_AppYsV2","searchable": 1, "changeable": 1,"ext": "https://www.wxtv.net/api.php/app/"},
+        {"key":"Nike影视","name":"Nike(AppYs)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ajeee.com/api.php/app/"},
+        {"key":"5dy3","name":"5dy3|APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://5dy3.vip/api.php/app/"},
         {"key":"jisu","name":"极速影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类":"电影&电视剧&动漫&综艺",
         "分类值":"1&2&4&3",
         "分类url":"https://www.shangbole.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
         "\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e+module-item-text\">&&</div>",
         "免嗅":"1",
         "嗅探词":".m3u8#.mp4#.flv#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma#.m4a",
-        "线路标题":"<span>&&</small>[替换:</span><small>>>]+集"}},
-        {"key":"csp_WoGG","name":"影视","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "./alitoken.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"}
-
+        "线路标题":"<span>&&</small>[替换:</span><small>>>]+集"}}
     ],
     "parses": [
         {"name":"Web聚合","type":3,"url":"Web"},
